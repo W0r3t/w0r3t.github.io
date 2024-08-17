@@ -8,7 +8,7 @@ const BADGES = [
     image: "assets/badges/bug_hunter_level2.svg", 
   },
   {
-    name: "king of silly",
+    name: "king of the sillyness",
     image: "assets/badges/server_owner.svg",
   },
 ];
